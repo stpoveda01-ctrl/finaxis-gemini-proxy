@@ -4,6 +4,6 @@
   "description": "Proxy serverless para conectar FinAxis con la API de Google Gemini",
   "private": true,
   "engines": {
-    "node": ">=18"
+    "node": "18.x"
   }
 }
